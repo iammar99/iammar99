@@ -20,7 +20,7 @@
 
 ## Skills
 
-<table style="width: 100%; border-collapse: collapse;">
+<table style="width: 100%; border-collapse: collapse;" align="center">
   <tr>
     <td style="text-align: center; padding: 20px;">
       <h3>Frontend</h3>
