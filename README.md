@@ -24,7 +24,7 @@
 
 ## Technologies & Tools 💻
 
-<table height="200px"  width="80%" align="center">
+<table height="250px"  width="80%" align="center">
     <tr style="display: flex;justify-content: space-evenly;">
         <td style="width:25%; border:1px solid white;height:180px;display:flex;flex-direction:column;border-radius:10px; ">
             <h3>
