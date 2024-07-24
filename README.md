@@ -18,46 +18,17 @@
 
 ## Technologies & Tools 💻
 
-<table height="250px"  width="80%" align="center">
-    <tr style="display: flex;justify-content: space-evenly;">
-        <td style="width:25%; border:1px solid white;height:180px;display:flex;flex-direction:column;border-radius:10px; ">
-            <h3>
-                    Frontend
-            </h3>
-            <div >
-                <img src="./Assets/html.png" style="width:20%;">
-                <img src="./Assets/css.png" style="width:21%;">
-                <img src="./Assets/sass.png" style="width:21%;">
-                <img src="./Assets/scss.png" style="width:23%;margin-bottom:12px;display:inline-block;">
-                <img src="./Assets/bootstrap.png" style="width:27%;">
-                <img src="./Assets/react.png" style="width:20%;">
-            </div>
-        </td>
-        <td style="width:25%; border:1px solid white;height:180px;display:flex;flex-direction:column;border-radius:10px; ">
-            <h3>
-                Languages
-            </h3>
-            <div >
-                <img src="./Assets/js.png" style="width:30%;">
-                <img src="./Assets/c.png" style="width:31%;">
-                <img src="./Assets/c_plus.png" style="width:30%;">
-            </div>
-        </td>
-        <td style="width:25%; border:1px solid white;height:180px;display:flex;flex-direction:column;border-radius:10px; ">
-            <h3>
-                Others
-            </h3>
-            <div >
-                <img src="./Assets/firebase.png" style="width:15%;">
-                <img src="./Assets/git.png" style="width:25%;">
-                <img src="./Assets/github.png" style="width:30%;">
-                <img src="./Assets/npm.png" style="width:30%;">
-                <img src="./Assets/vs_code.png" style="width:15%;">
-                <img src="./Assets/dsa.png" style="width:20%;">
-            </div>
-        </td>
-    </tr>
-</table>
+## Skills
+
+| Frontend                      | Languages                    | Others                      |
+| ----------------------------- | ---------------------------- | --------------------------- |
+| ![HTML](./Assets/html.png)     | ![JavaScript](./Assets/js.png) | ![Firebase](./Assets/firebase.png) |
+| ![CSS](./Assets/css.png)       | ![C](./Assets/c.png)         | ![Git](./Assets/git.png)     |
+| ![Sass](./Assets/sass.png)     | ![C++](./Assets/c_plus.png)  | ![GitHub](./Assets/github.png) |
+| ![SCSS](./Assets/scss.png)     |                              | ![npm](./Assets/npm.png)     |
+| ![Bootstrap](./Assets/bootstrap.png) |                              | ![VS Code](./Assets/vs_code.png) |
+| ![React](./Assets/react.png)   |                              | ![DSA](./Assets/dsa.png)     |
+
 
 
 ## Connect With me
