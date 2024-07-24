@@ -24,7 +24,7 @@
 
 ## Technologies & Tools 💻
 
-<table height="50px"  width="80%" align="center">
+<table height="200px"  width="80%" align="center">
     <tr style="display: flex;justify-content: space-evenly;">
         <td style="width:25%; border:1px solid white;height:180px;display:flex;flex-direction:column;border-radius:10px; ">
             <h3>
@@ -68,7 +68,7 @@
 
 ## Connect With me
 
-<center>
+<div align="center">
     <a href="https://iammar99.github.io/My_Portfolio/" target="_blank">
         <img src="https://img.shields.io/badge/ammar.com-023e8a?style=flat&logo=Google-Chrome&logoColor=white   ">
     </a>
@@ -84,11 +84,11 @@
     <a href="https://discord.com/users/1244256116263620633" target="_blank">
         <img src="https://img.shields.io/badge/ammar-4361ee?style=flat&logo=Discord&logoColor=white   ">
     </a>
-</center>
+</div>
 
 
 ## Stats 📊
 
-<center>
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammar99&hide_progress=false">
-</center>
+</div>
