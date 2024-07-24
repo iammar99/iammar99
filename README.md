@@ -20,14 +20,34 @@
 
 ## Skills
 
-| Frontend                      | Languages                    | Others                      |
-| ----------------------------- | ---------------------------- | --------------------------- |
-| ![HTML](./Assets/html.png)     | ![JavaScript](./Assets/js.png) | ![Firebase](./Assets/firebase.png) |
-| ![CSS](./Assets/css.png)       | ![C](./Assets/c.png)         | ![Git](./Assets/git.png)     |
-| ![Sass](./Assets/sass.png)     | ![C++](./Assets/c_plus.png)  | ![GitHub](./Assets/github.png) |
-| ![SCSS](./Assets/scss.png)     |                              | ![npm](./Assets/npm.png)     |
-| ![Bootstrap](./Assets/bootstrap.png) |                              | ![VS Code](./Assets/vs_code.png) |
-| ![React](./Assets/react.png)   |                              | ![DSA](./Assets/dsa.png)     |
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 33%; text-align: center; padding: 20px;">
+      <h3>Frontend</h3>
+      <img src="./Assets/html.png" alt="HTML" style="width: 50%;">
+      <img src="./Assets/css.png" alt="CSS" style="width: 50%;">
+      <img src="./Assets/sass.png" alt="Sass" style="width: 50%;">
+      <img src="./Assets/scss.png" alt="SCSS" style="width: 50%; margin-bottom: 12px;">
+      <img src="./Assets/bootstrap.png" alt="Bootstrap" style="width: 50%;">
+      <img src="./Assets/react.png" alt="React" style="width: 50%;">
+    </td>
+    <td style="width: 33%; text-align: center; padding: 20px;">
+      <h3>Languages</h3>
+      <img src="./Assets/js.png" alt="JavaScript" style="width: 50%;">
+      <img src="./Assets/c.png" alt="C" style="width: 50%;">
+      <img src="./Assets/c_plus.png" alt="C++" style="width: 50%;">
+    </td>
+    <td style="width: 33%; text-align: center; padding: 20px;">
+      <h3>Others</h3>
+      <img src="./Assets/firebase.png" alt="Firebase" style="width: 50%;">
+      <img src="./Assets/git.png" alt="Git" style="width: 50%;">
+      <img src="./Assets/github.png" alt="GitHub" style="width: 50%;">
+      <img src="./Assets/npm.png" alt="npm" style="width: 50%;">
+      <img src="./Assets/vs_code.png" alt="VS Code" style="width: 50%;">
+      <img src="./Assets/dsa.png" alt="DSA" style="width: 50%;">
+    </td>
+  </tr>
+</table>
 
 
 
