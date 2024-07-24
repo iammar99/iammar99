@@ -4,23 +4,17 @@
     Hello! I'm Ammar, a passionate web developer and undergraduate student pursuing my BSIT degree at the University of Agriculture, Faisalabad (UAF). With a keen interest in building innovative web solutions, I'm always looking to collaborate on exciting projects and learn from the open-source community. Feel free to explore my repositories, where you'll find a mix of personal projects, contributions, and experiments in web development. Let's connect and create something amazing together!
 </p>
 
-<ul>
-    <li>
-        Solved 100+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/iammar911/)**.
-    </li>
-    <li>
-        Completed 9/9 Questions in CS50x organized by **@Harvard University**  **[Win 1st Place](https://www.linkedin.com/posts/ch-ammar-a1115527b_cs50x-puzzleday-harvard-activity-7185500165296857088-B8RA?utm_source=share&utm_medium=member_desktop)**.
-    </li>
-    <li>
-        Typing speed 45WPM +   **[@Monkeytype](https://monkeytype.com/profile/iammar99)**.
-    </li>
-    <li>
-        **[@Participated](https://lablab.ai/u/@iammar)** in in multiple AI International Hackathons of **lablab.ai** with a global team of six Hackathons.
-    </li>
-    <li>
-        [Presented](https://www.linkedin.com/posts/ch-ammar-a1115527b_icodeguru-leetcode-validparenthesesstring-activity-7204806350973927424-VUPf?utm_source=share&utm_medium=member_desktop) in the **[@icodeguru](https://icodeguru.weebly.com/) session**.
-    </li>
-</ul>
+
+- Solved 100+ Data Structures & Algorithms problems on [Leetcode](https://leetcode.com/iammar911/).
+
+- Completed 9/9 Questions in CS50x organized by [@Harvard University](https://www.harvard.edu/) and secured [1st Position](https://www.linkedin.com/posts/ch-ammar-a1115527b_cs50x-puzzleday-harvard-activity-7185500165296857088-B8RA?utm_source=share&utm_medium=member_desktop).
+
+- Typing speed 45WPM+ [@Monkeytype](https://monkeytype.com/profile/iammar99/).
+
+- [@Participated](https://lablab.ai/u/@iammar) in multiple AI International Hackathons of [lablab.ai](https://lablab.ai/) with a global team of six Hackathons.
+
+- [Presented](https://www.linkedin.com/posts/ch-ammar-a1115527b_icodeguru-leetcode-validparenthesesstring-activity-7204806350973927424-VUPf?utm_source=share&utm_medium=member_desktop) in the [@icodeguru](https://icodeguru.weebly.com/) session.
+
 
 ## Technologies & Tools 💻
 
@@ -44,9 +38,9 @@
                 Languages
             </h3>
             <div >
-                <img src="./Assets/js.png" style="width:20%;">
-                <img src="./Assets/c.png" style="width:21%;">
-                <img src="./Assets/c_plus.png" style="width:20%;">
+                <img src="./Assets/js.png" style="width:30%;">
+                <img src="./Assets/c.png" style="width:31%;">
+                <img src="./Assets/c_plus.png" style="width:30%;">
             </div>
         </td>
         <td style="width:25%; border:1px solid white;height:180px;display:flex;flex-direction:column;border-radius:10px; ">
