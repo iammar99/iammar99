@@ -47,6 +47,7 @@
       <img src="./Assets/git.png" alt="Git" style="width: 100px;">
       <img src="./Assets/github.png" alt="GitHub" style="width: 100px;">
       <img src="./Assets/npm.png" alt="npm" style="width: 100px;">
+      <img src="./Assets/surge.png" alt="npm" style="width: 100px;">
       <img src="./Assets/vs_code.png" alt="VS Code" style="width: 70px;">
       <img src="./Assets/dsa.png" alt="DSA" style="width: 100px;">
     </td>
