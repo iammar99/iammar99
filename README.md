@@ -5,7 +5,7 @@
 </p>
 
 
-- Solved 100+ Data Structures & Algorithms problems on [Leetcode](https://leetcode.com/iammar911/).
+- Solved 150+ Data Structures & Algorithms problems on [Leetcode](https://leetcode.com/iammar911/).
 
 - Completed 9/9 Questions in CS50x organized by [@Harvard University](https://www.harvard.edu/) and secured [1st Position](https://www.linkedin.com/posts/ch-ammar-a1115527b_cs50x-puzzleday-harvard-activity-7185500165296857088-B8RA?utm_source=share&utm_medium=member_desktop).
 
