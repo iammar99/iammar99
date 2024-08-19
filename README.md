@@ -24,32 +24,34 @@
   <tr>
     <td style="text-align: center; padding: 20px;">
       <h3>Frontend</h3>
-      <img src="./Assets/html.png" alt="HTML" style="width: 100px;">
-      <img src="./Assets/css.png" alt="CSS" style="width: 100px;">
-      <img src="./Assets/sass.png" alt="Sass" style="width: 100px;">
-      <img src="./Assets/scss.png" alt="SCSS" style="width: 100px;margin-bottom:20px;">
-      <img src="./Assets/bootstrap.png" alt="Bootstrap" style="width: 100px;margin-bottom:20px;">
-      <img src="./Assets/react.png" alt="React" style="width: 70px;margin-bottom:20px;">
+      <img src="./Assets/html.png" title="HTML" alt="HTML" style="width: 100px;">
+      <img src="./Assets/css.png" title="CSS" alt="CSS" style="width: 100px;">
+      <img src="./Assets/sass.png" title="Sass" alt="Sass" style="width: 100px;">
+      <img src="./Assets/scss.png" title="SCSS" alt="SCSS" style="width: 100px;margin-bottom:20px;">
+      <img src="./Assets/bootstrap.png" title="Bootstrap" alt="Bootstrap" style="width: 100px;margin-bottom:20px;">
+      <img src="./Assets/react.png" title="React" alt="React" style="width: 70px;margin-bottom:20px;">
+      <img src="./Assets/streamlit.png" title="Streamlit" alt="Streamlit" style="width: 100px;margin-bottom:5px;">
     </td>
   </tr>
   <tr>
     <td style="text-align: center; padding: 20px;">
       <h3>Languages</h3>
-      <img src="./Assets/js.png" alt="JavaScript" style="width: 100px;">
-      <img src="./Assets/c.png" alt="C" style="width: 100px;">
-      <img src="./Assets/c_plus.png" alt="C++" style="width: 100px;">
+      <img src="./Assets/js.png" alt="JavaScript" title="JavaScript" style="width: 100px;">
+      <img src="./Assets/c.png" alt="C" title="C" style="width: 100px;">
+      <img src="./Assets/c_plus.png" alt="C++" title="C++" style="width: 100px;">
+      <img src="./Assets/python.png" alt="Python" title="Python" style="width: 100px;">
     </td>
   </tr>
   <tr>
     <td style="text-align: center; padding: 20px;">
       <h3>Others</h3>
-      <img src="./Assets/firebase.png" alt="Firebase" style="width: 70px;">
-      <img src="./Assets/git.png" alt="Git" style="width: 100px;">
-      <img src="./Assets/github.png" alt="GitHub" style="width: 100px;">
-      <img src="./Assets/npm.png" alt="npm" style="width: 100px;">
-      <img src="./Assets/surge.png" alt="npm" style="width: 100px;">
-      <img src="./Assets/vs_code.png" alt="VS Code" style="width: 70px;">
-      <img src="./Assets/dsa.png" alt="DSA" style="width: 100px;">
+      <img src="./Assets/firebase.png" alt="Firebase" title="Firebase" style="width: 70px;">
+      <img src="./Assets/git.png" alt="Git" title="Git" style="width: 100px;">
+      <img src="./Assets/github.png" alt="GitHub" title="GitHub" style="width: 100px;">
+      <img src="./Assets/npm.png" alt="npm" title="npm" style="width: 100px;">
+      <img src="./Assets/surge.png" alt="npm" title="npm" style="width: 100px;">
+      <img src="./Assets/vs_code.png" alt="VS Code" title="VS Code" style="width: 70px;">
+      <img src="./Assets/dsa.png" alt="DSA"  title="DSA" style="width: 100px;">
     </td>
   </tr>
 </table>
