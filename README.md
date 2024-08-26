@@ -1,7 +1,7 @@
 ## Web Developer 👨‍💻
 
 <p>
-    Hello! I'm Ammar, a passionate web developer and undergraduate student pursuing my BSIT degree at the University of Agriculture, Faisalabad (UAF). With a keen interest in building innovative web solutions, I'm always looking to collaborate on exciting projects and learn from the open-source community. Feel free to explore my repositories, where you'll find a mix of personal projects, contributions, and experiments in web development. Let's connect and create something amazing together!
+    Hello! I'm <b>Ammar</b>, a passionate web developer and undergraduate student pursuing my BSIT degree at the University of Agriculture, Faisalabad (UAF). With a keen interest in building innovative web solutions, I'm always looking to collaborate on exciting projects and learn from the open-source community. Feel free to explore my repositories, where you'll find a mix of personal projects, contributions, and experiments in web development. Let's connect and create something amazing together!
 </p>
 
 
@@ -52,6 +52,7 @@
       <img src="./Assets/surge.png" alt="npm" title="npm" style="width: 100px;">
       <img src="./Assets/vs_code.png" alt="VS Code" title="VS Code" style="width: 70px;">
       <img src="./Assets/dsa.png" alt="DSA"  title="DSA" style="width: 100px;">
+      <img src="./Assets/genAI.png" alt="gen AI"  title="DSA" style="width: 100px;">
     </td>
   </tr>
 </table>
@@ -83,4 +84,13 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammar99&hide_progress=false">
+</div>
+
+
+## Leetcode Stats 📊
+
+<div align="center">
+
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/iammar911?ext=heatmap)
+  
 </div>
