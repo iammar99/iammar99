@@ -62,7 +62,7 @@
 ## Connect With me
 
 <div align="center">
-    <a href="ch-ammar.vercel.app" target="_blank">
+    <a href="http://ch-ammar.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/ammar.com-023e8a?style=flat&logo=Google-Chrome&logoColor=white   ">
     </a>
     <a href="https://www.linkedin.com/in/ch-ammar-a1115527b/" target="_blank">
