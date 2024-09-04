@@ -1,9 +1,13 @@
 ## Web Developer 👨‍💻
 
-<p>
-    Hello! I'm <b>Ammar</b>, a passionate web developer and undergraduate student pursuing my BSIT degree at the University of Agriculture, Faisalabad (UAF). With a keen interest in building innovative web solutions, I'm always looking to collaborate on exciting projects and learn from the open-source community. Feel free to explore my repositories, where you'll find a mix of personal projects, contributions, and experiments in web development. Let's connect and create something amazing together!
-</p>
-
+<div style="display:flex; justify-content: space-evenly;">
+    <p style="width:75%">
+        Hello! I'm <b>Ammar</b>, a passionate web developer and undergraduate student pursuing my BSIT degree at the University of Agriculture, Faisalabad (UAF). With a keen interest in building innovative web solutions, I'm always looking to collaborate on exciting projects and learn from the open-source community. Feel free to explore my repositories, where you'll find a mix of personal projects, contributions, and experiments in web development. Let's connect and create something amazing together!
+    </p>
+      <video src="./Assets/ammarGif.mp4" autoplay loop muted playsinline style="width:150px">
+        Your browser does not support the video tag.
+      </video>
+</div>
 
 - Solved 150+ Data Structures & Algorithms problems on [Leetcode](https://leetcode.com/iammar911/).
 
@@ -13,7 +17,11 @@
 
 - [@Participated](https://lablab.ai/u/@iammar) in multiple AI International Hackathons of [lablab.ai](https://lablab.ai/) with a global team of six Hackathons.
 
+- Participated in GEN AI  Hackathons of [PAK ANGELS](https://www.pakangels.com/) .
+
 - [Presented](https://www.linkedin.com/posts/ch-ammar-a1115527b_icodeguru-leetcode-validparenthesesstring-activity-7204806350973927424-VUPf?utm_source=share&utm_medium=member_desktop) in the [@icodeguru](https://icodeguru.weebly.com/) session.
+
+
 
 
 ## Technologies & Tools 💻
