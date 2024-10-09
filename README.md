@@ -28,7 +28,7 @@
 
 <table style="width: 100%; border-collapse: collapse;" align="center">
   <tr>
-    <td style="text-align: center; padding: 20px;">
+    <td  align="center">
       <h3>Frontend</h3>
       <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,react">
       <!-- <img src="./Assets/html.png" title="HTML" alt="HTML" style="width: 100px;">
@@ -41,7 +41,7 @@
     </td>
   </tr>
   <tr>
-    <td style="text-align: center; padding: 20px;">
+    <td  align="center">
       <h3>Languages</h3>
       <img src="https://skillicons.dev/icons?i=js,c,cpp,python">
       <!-- <img src="./Assets/js.png" alt="JavaScript" title="JavaScript" style="width: 100px;">
@@ -51,7 +51,7 @@
     </td>
   </tr>
   <tr>
-    <td style="text-align: center; padding: 20px;">
+    <td align="center">
       <h3>Others</h3>
       <img src="https://skillicons.dev/icons?i=firebase,git,github,npm,vscode,vercel">
       <img src="./Assets/dsa.png" alt="DSA"  title="DSA" style="width: 50px;">
