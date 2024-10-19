@@ -1,11 +1,10 @@
 ## Web Developer 👨‍💻
 
-<div style="display:flex; justify-content: space-between; align-items:center;">
-    <p style="width:50%">
+
+<p>
         Hello! I'm <b>Ammar</b>, a passionate web developer and undergraduate student pursuing my BSIT degree at the University of Agriculture, Faisalabad (UAF). With a keen interest in building innovative web solutions, I'm always looking to collaborate on exciting projects and learn from the open-source community. Feel free to explore my repositories, where you'll find a mix of personal projects, contributions, and experiments in web development. Let's connect and create something amazing together!
-    </p>
-      <img src="./Assets/ammar.gif" width="350">
-</div>
+</p>
+<img align="right" src="./Assets/ammar.gif" width="350">
 
 - Solved 150+ Data Structures & Algorithms problems on [Leetcode](https://leetcode.com/iammar911/).
 
@@ -31,23 +30,12 @@
     <td  align="center">
       <h3>Frontend</h3>
       <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,react">
-      <!-- <img src="./Assets/html.png" title="HTML" alt="HTML" style="width: 100px;">
-      <img src="./Assets/css.png" title="CSS" alt="CSS" style="width: 100px;">
-      <img src="./Assets/sass.png" title="Sass" alt="Sass" style="width: 100px;">
-      <img src="./Assets/scss.png" title="SCSS" alt="SCSS" style="width: 100px;margin-bottom:20px;">
-      <img src="./Assets/bootstrap.png" title="Bootstrap" alt="Bootstrap" style="width: 100px;margin-bottom:20px;">
-      <img src="./Assets/react.png" title="React" alt="React" style="width: 70px;margin-bottom:20px;">
-      <img src="./Assets/streamlit.png" title="Streamlit" alt="Streamlit" style="width: 100px;margin-bottom:5px;"> -->
     </td>
   </tr>
   <tr>
     <td  align="center">
       <h3>Languages</h3>
       <img src="https://skillicons.dev/icons?i=js,c,cpp,python">
-      <!-- <img src="./Assets/js.png" alt="JavaScript" title="JavaScript" style="width: 100px;">
-      <img src="./Assets/c.png" alt="C" title="C" style="width: 100px;">
-      <img src="./Assets/c_plus.png" alt="C++" title="C++" style="width: 100px;">
-      <img src="./Assets/python.png" alt="Python" title="Python" style="width: 100px;"> -->
     </td>
   </tr>
   <tr>
@@ -57,12 +45,6 @@
       <img src="./Assets/dsa.png" alt="DSA"  title="DSA" style="width: 50px;">
       <img src="./Assets/genAI.png" alt="gen AI"  title="DSA" style="width: 50px;">
       <img src="./Assets/surge.png" alt="npm" title="npm" style="width: 50px;">
-      <!-- <img src="./Assets/firebase.png" alt="Firebase" title="Firebase" style="width: 70px;">
-      <img src="./Assets/git.png" alt="Git" title="Git" style="width: 100px;">
-      <img src="./Assets/github.png" alt="GitHub" title="GitHub" style="width: 100px;">
-      <img src="./Assets/npm.png" alt="npm" title="npm" style="width: 100px;">
-      <img src="./Assets/vs_code.png" alt="VS Code" title="VS Code" style="width: 70px;">
- -->
     </td>
   </tr>
 </table>
