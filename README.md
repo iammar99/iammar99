@@ -1,17 +1,19 @@
-## Web Developer 👨‍💻
+## <p align="left">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI Enthusiast🤖;Coding Maniac🔥;Frontend Developer 👨‍💻;Leetcoder🏆;Always%20learning%20new%20things&font=Fira%20Code&center=false&width=440&height=45&color=#162238&vCenter=true&size=40&pause=1000">
+</p> 
 
-<a href="https://github.com/uammar99">
+<!-- <a href="https://github.com/uammar99">
     <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=iammar99&data=followers,repositories,stars,commits&theme=nautilus">
-</a>
+</a> -->
 
 <p>
         Hello! I'm <b>Ammar</b>, a passionate web developer and undergraduate student pursuing my BSIT degree at the University of Agriculture, Faisalabad (UAF). With a keen interest in building innovative web solutions, I'm always looking to collaborate on exciting projects and learn from the open-source community. Feel free to explore my repositories, where you'll find a mix of personal projects, contributions, and experiments in web development. Let's connect and create something amazing together!
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=AI Enthusiast;Coding Maniac;Frontend Developer;Leetcoder;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#162238&vCenter=true&size=40&pause=1000">
-</p>
+</p> -->
 
 <img align="right" src="./Assets/ammar.gif" width="350">
 
