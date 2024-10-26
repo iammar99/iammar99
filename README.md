@@ -11,10 +11,6 @@
 </p>
 
 
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI Enthusiast;Coding Maniac;Frontend Developer;Leetcoder;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#162238&vCenter=true&size=40&pause=1000">
-</p> -->
-
 <img align="right" src="./Assets/ammar.gif" width="350">
 
 - Solved 200+ Data Structures & Algorithms problems on [Leetcode](https://leetcode.com/iammar911/).
