@@ -25,6 +25,8 @@
 
 - [Presented](https://www.linkedin.com/posts/ch-ammar-a1115527b_icodeguru-leetcode-validparenthesesstring-activity-7204806350973927424-VUPf?utm_source=share&utm_medium=member_desktop) in the [@icodeguru](https://icodeguru.weebly.com/) session.
 
+- [Led](https://devpost.com/software/tour-guide-0u4b97) a team in **GPT4o: Code & Conquer** Hackathon by [Devpost](https://devpost.com)  
+
 
 
 
