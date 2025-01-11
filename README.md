@@ -85,20 +85,22 @@
 
 ## Stats 📊
 
-<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; width: 100%; text-align: center;">
+<div align="center">
 
-  <!-- Wrapper for Stats and Top Languages -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <!-- Stats and Top Languages -->
+  <div>
     <img src="https://github-readme-stats.vercel.app/api?username=iammar99&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="iammar99's Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammar99&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&progress=false" alt="iammar99's Top Languages" />
   </div>
 
-  <!-- Wrapper for Streak -->
-  <div style="display: flex; justify-content: center; margin-top: 20px; width: 100%;">
+  <!-- Streak -->
+  <br />
+  <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammar99&theme=vue-dark&hide_border=true" alt="iammar99's Streak" />
   </div>
 
 </div>
+
 
 
 
