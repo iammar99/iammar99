@@ -85,19 +85,24 @@
 
 ## Stats 📊
 
-<div style="display:flex;align-items:center;justify-content:center;flex-wrap: wrap;width:100%">
+<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; width: 100%; text-align: center;">
 
+  <div style="display:flex;">
+    <!-- <div style="flex: 1 0 100%; display: flex; justify-content: center;"> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=iammar99&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="iammar99's Stats" />
+  <!-- </div> -->
 
+  <!-- <div style="flex: 1 0 100%; display: flex; justify-content: center;"> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammar99&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&progress=false" alt="iammar99's Top Languages" />
+  <!-- </div> -->
+  </div>
 
-![iammar99's Stats](https://github-readme-stats.vercel.app/api?username=iammar99&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![iammar99's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iammar99&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&progress=false)
-
-
-![iammar99's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iammar99&theme=vue-dark&hide_border=true)
-
-
+  <div style="flex: 1 0 100%; display: flex; justify-content: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammar99&theme=vue-dark&hide_border=true" alt="iammar99's Streak" />
+  </div>
 
 </div>
+
 
 
 ## Leetcode Stats 📊
