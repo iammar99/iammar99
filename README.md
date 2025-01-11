@@ -13,7 +13,7 @@
 
 <img align="right" src="./Assets/ammar.gif" width="350">
 
-- Solved 200+ Data Structures & Algorithms problems on [Leetcode](https://leetcode.com/iammar911/).
+- Solved 20+ Data Structures & Algorithms problems on [Leetcode](https://leetcode.com/iammar911/).
 
 - Completed 9/9 Questions in CS50x organized by [@Harvard University](https://www.harvard.edu/) and secured [1st Position](https://www.linkedin.com/posts/ch-ammar-a1115527b_cs50x-puzzleday-harvard-activity-7185500165296857088-B8RA?utm_source=share&utm_medium=member_desktop).
 
@@ -85,8 +85,18 @@
 
 ## Stats 📊
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammar99&hide_progress=false">
+<div style="display:flex;align-items:center;justify-content:center;flex-wrap: wrap;width:100%">
+
+
+
+![iammar99's Stats](https://github-readme-stats.vercel.app/api?username=iammar99&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![iammar99's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iammar99&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&progress=false)
+
+
+![iammar99's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iammar99&theme=vue-dark&hide_border=true)
+
+
+
 </div>
 
 
