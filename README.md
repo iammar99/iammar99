@@ -13,7 +13,7 @@
 
 <img align="right" src="./Assets/ammar.gif" width="350">
 
-- Solved 20+ Data Structures & Algorithms problems on [Leetcode](https://leetcode.com/iammar911/).
+- Solved 250+ Data Structures & Algorithms problems on [Leetcode](https://leetcode.com/iammar911/).
 
 - Completed 9/9 Questions in CS50x organized by [@Harvard University](https://www.harvard.edu/) and secured [1st Position](https://www.linkedin.com/posts/ch-ammar-a1115527b_cs50x-puzzleday-harvard-activity-7185500165296857088-B8RA?utm_source=share&utm_medium=member_desktop).
 
@@ -69,7 +69,7 @@
         <img src="https://img.shields.io/badge/ammar.com-023e8a?style=flat&logo=Google-Chrome&logoColor=white   ">
     </a>
     <a href="https://www.linkedin.com/in/ch-ammar-a1115527b/" target="_blank">
-        <img src="https://img.shields.io/badge/Ch Ammar-0077B5?style=flat&logo=Linkedin&logoColor=white   ">
+        <img src="https://img.shields.io/badge/ammar-4361ee?style=flat&logo=Discord&logoColor=white">
     </a>
     <a href="mailto:ammarbashaar99@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/ammarbashaar99@gmail.com-666666?style=flat&logo=Gmail&logoColor=white   ">
