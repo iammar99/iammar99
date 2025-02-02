@@ -69,7 +69,7 @@
         <img src="https://img.shields.io/badge/ammar.com-023e8a?style=flat&logo=Google-Chrome&logoColor=white   ">
     </a>
     <a href="https://www.linkedin.com/in/ch-ammar-a1115527b/" target="_blank">
-        <img src="https://img.shields.io/badge/ammar-4361ee?style=flat&logo=Discord&logoColor=white">
+        <img src="https://img.shields.io/badge/Ch Ammar-4361ee?style=flat&logo=LinkedIn&logoColor=white">
     </a>
     <a href="mailto:ammarbashaar99@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/ammarbashaar99@gmail.com-666666?style=flat&logo=Gmail&logoColor=white   ">
