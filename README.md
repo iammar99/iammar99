@@ -13,7 +13,7 @@
 
 <img align="right" src="./Assets/ammar.gif" width="350">
 
-- Solved 300+ Data Structures & Algorithms problems on [Leetcode](https://leetcode.com/iammar911/).
+- [Solved](https://docs.google.com/spreadsheets/d/1iWDz9k0ivRrmtcEKVjJh1yhiuVyFClgp/edit?gid=57581707#gid=57581707 ) 300+ Data Structures & Algorithms problems on [Leetcode](https://leetcode.com/iammar911/).
 
 - Completed 9/9 Questions in CS50x organized by [@Harvard University](https://www.harvard.edu/) and secured [1st Position](https://www.linkedin.com/posts/ch-ammar-a1115527b_cs50x-puzzleday-harvard-activity-7185500165296857088-B8RA?utm_source=share&utm_medium=member_desktop).
 
