@@ -21,7 +21,7 @@
 
 - [@Participated](https://lablab.ai/u/@iammar) in multiple AI International Hackathons of [lablab.ai](https://lablab.ai/) with a global team of six Hackathons.
 
-- Secured **5th position** out 64 teams in GEN AI  Hackathons of [PAK ANGELS](https://www.pakangels.com/) .
+- Secured **5th position** out 63 teams in GEN AI  Hackathons of [PAK ANGELS](https://www.pakangels.com/) .
 
 - [Presented](https://www.linkedin.com/posts/ch-ammar-a1115527b_icodeguru-leetcode-validparenthesesstring-activity-7204806350973927424-VUPf?utm_source=share&utm_medium=member_desktop) in the [@icodeguru](https://icodeguru.weebly.com/) session.
 
