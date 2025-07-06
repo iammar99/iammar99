@@ -52,7 +52,7 @@
   <tr>
     <td align="center">
       <h3>Others</h3>
-      <img src="https://skillicons.dev/icons?i=firebase,git,github,npm,vscode,vercel,express,mysql,nodejs">
+      <img src="https://skillicons.dev/icons?i=firebase,git,github,npm,vscode,vercel,express,mysql,nodejs,mongodb">
       <img src="./Assets/dsa.png" alt="DSA"  title="DSA" style="width: 50px;">
       <img src="./Assets/genAI.png" alt="gen AI"  title="DSA" style="width: 50px;">
       <img src="./Assets/surge.png" alt="npm" title="npm" style="width: 50px;">
