@@ -7,7 +7,7 @@
 </a> -->
 
 <p>
-        Hello!  I'm <b>Ammar</b>, a passionate MERN Stack developer and undergraduate student pursuing my BSIT degree at the University of Agriculture, Faisalabad (UAF). With a keen interest in building innovative web solutions, I'm always looking to collaborate on exciting projects and learn from the open-source community. Feel free to explore my repositories, where you'll find a mix of personal projects, contributions, and experiments in web development. Let's connect and create something amazing together!
+        Hello!!  I'm <b>Ammar</b>, a passionate MERN Stack developer and undergraduate student pursuing my BSIT degree at the University of Agriculture, Faisalabad (UAF). With a keen interest in building innovative web solutions, I'm always looking to collaborate on exciting projects and learn from the open-source community. Feel free to explore my repositories, where you'll find a mix of personal projects, contributions, and experiments in web development. Let's connect and create something amazing together!
 </p>
 
 
