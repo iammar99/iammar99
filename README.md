@@ -1,5 +1,5 @@
 ## <p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI Enthusiast🤖;Coding Maniac🔥;MERN Stack Developer 👨‍💻;Leetcoder🏆;Always%20learning%20new%20things&font=Fira%20Code&center=false&width=440&height=45&color=#162238&vCenter=true&size=40&pause=1000">
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI+Enthusiast%F0%9F%A4%96;Coding+Maniac%F0%9F%94%A5;MERN+Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Leetcoder%F0%9F%8F%86;Always+learning+new+things&font=Fira+Code&center=false&width=440&height=45&color=#162238&vCenter=true&size=24&pause=100)](https://git.io/typing-svg)
 </p> 
 
 <!-- <a href="https://github.com/uammar99">
