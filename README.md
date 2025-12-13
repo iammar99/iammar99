@@ -1,114 +1,117 @@
 ## <p align="left">
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI+Enthusiast%F0%9F%A4%96;Coding+Maniac%F0%9F%94%A5;MERN+Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Leetcoder%F0%9F%8F%86;Always+learning+new+things&font=Fira+Code&center=false&width=440&height=45&color=#162238&vCenter=true&size=24&pause=100)](https://git.io/typing-svg)
-</p> 
-
-<!-- <a href="https://github.com/uammar99">
-    <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=iammar99&data=followers,repositories,stars,commits&theme=nautilus">
-</a> -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Engineer+%F0%9F%92%BB;400%2B+DSA+Problems+Solved+%F0%9F%8F%86;MERN+%7C+Next.js+%7C+TypeScript+%F0%9F%9A%80;Hackathon+Winner+%F0%9F%A5%87;Building+Scalable+Solutions&font=Fira+Code&center=false&width=440&height=45&color=#162238&vCenter=true&size=24&pause=100)](https://git.io/typing-svg)
 
 <p>
-        Hello!  I'm <b>Ammar</b>, a passionate MERN Stack developer and undergraduate student pursuing my BSIT degree at the University of Agriculture, Faisalabad (UAF). With a keen interest in building innovative web solutions, I'm always looking to collaborate on exciting projects and learn from the open-source community. Feel free to explore my repositories, where you'll find a mix of personal projects, contributions, and experiments in web development. Let's connect and create something amazing together!
+        Hi there! 👋 I'm <b>Ammar</b>, a Full-Stack Engineer specializing in the MERN stack and Next.js with a passion for solving complex technical challenges. Currently pursuing my BSIT at the University of Agriculture, Faisalabad (UAF), I combine strong algorithmic thinking with modern web development frameworks to build scalable, production-ready applications.
+        <br><br>
+        With <b>400+ solved DSA problems</b>, <b>Next.js certification</b>, multiple <b>hackathon wins</b>, and hands-on experience leading development teams, I thrive in fast-paced environments where innovation meets execution. I specialize in building high-performance web applications using React, Next.js, TypeScript, and Node.js. I'm actively seeking opportunities to contribute to impactful projects at forward-thinking tech companies.
 </p>
-
 
 <img align="right" src="./Assets/ammar.gif" width="350">
 
-- [Solved](https://docs.google.com/spreadsheets/d/1iWDz9k0ivRrmtcEKVjJh1yhiuVyFClgp/edit?gid=57581707#gid=57581707 ) 400+ Data Structures & Algorithms problems on [Leetcode](https://leetcode.com/iammar911/).
+## 🏆 Key Achievements
 
-- Completed 9/9 Questions in CS50x organized by [@Harvard University](https://www.harvard.edu/) and secured [1st Position](https://www.linkedin.com/posts/ch-ammar-a1115527b_cs50x-puzzleday-harvard-activity-7185500165296857088-B8RA?utm_source=share&utm_medium=member_desktop).
+- **🥇 1st Place** - CS50x Puzzle Day by [@Harvard University](https://www.harvard.edu/) | [Certificate](https://www.linkedin.com/posts/ch-ammar-a1115527b_cs50x-puzzleday-harvard-activity-7185500165296857088-B8RA)
 
-- Typing speed 45WPM+ [@Monkeytype](https://monkeytype.com/profile/iammar99/).
+- **🥈 5th Position** - Gen AI Hackathon (63 competing teams) by [PAK ANGELS](https://www.pakangels.com/)
 
-- [@Participated](https://lablab.ai/u/@iammar) in multiple AI International Hackathons of [lablab.ai](https://lablab.ai/) with a global team of six Hackathons.
+- **💡 400+ Problems Solved** on [LeetCode](https://leetcode.com/iammar911/) | [Solution Sheet](https://docs.google.com/spreadsheets/d/1iWDz9k0ivRrmtcEKVjJh1yhiuVyFClgp/edit?gid=57581707#gid=57581707)
 
-- Secured **5th position** out 63 teams in GEN AI  Hackathons of [PAK ANGELS](https://www.pakangels.com/) .
+- **🌍 6x International Hackathon Participant** [@lablab.ai](https://lablab.ai/u/@iammar) - Collaborated with global teams on AI-powered solutions
 
-- [Presented](https://www.linkedin.com/posts/ch-ammar-a1115527b_icodeguru-leetcode-validparenthesesstring-activity-7204806350973927424-VUPf?utm_source=share&utm_medium=member_desktop) in the [@icodeguru](https://icodeguru.weebly.com/) session.
+- **👨‍💼 Team Lead** - Led winning teams in:
+  - [GPT4o: Code & Conquer](https://devpost.com/software/tour-guide-0u4b97) (Devpost)
+  - [#Build with AI](https://gen-css.vercel.app/) (GENAI Hackathon)
 
-- [Led](https://devpost.com/software/tour-guide-0u4b97) a team in **GPT4o: Code & Conquer** Hackathon by [Devpost](https://devpost.com)  
-  
-- [Led](https://gen-css.vercel.app/) a team in **#Build with AI** Hackathon by [GENAI ](https://genai.works/hackathon)  
+- **🎤 Technical Speaker** - [Presented](https://www.linkedin.com/posts/ch-ammar-a1115527b_icodeguru-leetcode-validparenthesesstring-activity-7204806350973927424-VUPf) at [@icodeguru](https://icodeguru.weebly.com/) coding sessions
 
+- **⚡ 45+ WPM** Typing Speed on [@Monkeytype](https://monkeytype.com/profile/iammar99/)
 
-
-
-## Technologies & Tools 💻
-
-## Skills
+## 💻 Tech Stack
 
 <table style="width: 100%; border-collapse: collapse;" align="center">
   <tr>
-    <td  align="center">
-      <h3>Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,react">
-    </td>
-  </tr>
-  <tr>
-    <td  align="center">
-      <h3>Languages</h3>
-      <img src="https://skillicons.dev/icons?i=js,c,cpp,python">
+    <td align="center">
+      <h3>Frontend Development</h3>
+      <img src="https://skillicons.dev/icons?i=react,next,html,css,sass,bootstrap,tailwind">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <h3>Others</h3>
-      <img src="https://skillicons.dev/icons?i=firebase,git,github,npm,vscode,vercel,express,mysql,nodejs,mongodb">
-      <img src="./Assets/dsa.png" alt="DSA"  title="DSA" style="width: 50px;">
-      <img src="./Assets/genAI.png" alt="gen AI"  title="DSA" style="width: 50px;">
-      <img src="./Assets/surge.png" alt="npm" title="npm" style="width: 50px;">
+      <h3>Backend & Database</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>Languages & Core</h3>
+      <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,php">
+      <img src="./Assets/dsa.png" alt="DSA" title="Data Structures & Algorithms" style="width: 50px;">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>Tools & Technologies</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm">
+      <img src="./Assets/genAI.png" alt="GenAI" title="Generative AI" style="width: 50px;">
+      <img src="./Assets/surge.png" alt="Surge" title="Surge" style="width: 50px;">
     </td>
   </tr>
 </table>
 
-
-
-## Connect With me
+## 🤝 Let's Connect
 
 <div align="center">
     <a href="http://ch-ammar.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/ammar.com-023e8a?style=flat&logo=Google-Chrome&logoColor=white   ">
+        <img src="https://img.shields.io/badge/Portfolio-023e8a?style=for-the-badge&logo=Google-Chrome&logoColor=white">
     </a>
     <a href="https://www.linkedin.com/in/ch-ammar-a1115527b/" target="_blank">
-        <img src="https://img.shields.io/badge/Ch Ammar-4361ee?style=flat&logo=LinkedIn&logoColor=white">
+        <img src="https://img.shields.io/badge/LinkedIn-4361ee?style=for-the-badge&logo=LinkedIn&logoColor=white">
     </a>
     <a href="mailto:ammarbashaar99@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/ammarbashaar99@gmail.com-666666?style=flat&logo=Gmail&logoColor=white   ">
+        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
     </a>
     <a href="https://leetcode.com/iammar911/" target="_blank">
-        <img src="https://img.shields.io/badge/iammar911-FFA116?style=flat&logo=Leetcode&logoColor=white   ">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=Leetcode&logoColor=white">
     </a>
     <a href="https://discord.com/users/1244256116263620633" target="_blank">
-        <img src="https://img.shields.io/badge/ammar-4361ee?style=flat&logo=Discord&logoColor=white   ">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
     </a>
 </div>
 
+<br>
 
-## Stats 📊
+<div align="center">
+  <i>💼 Open to Full-Stack Developer roles and exciting collaborative projects</i>
+</div>
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-  <!-- Stats and Top Languages -->
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=iammar99&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="iammar99's Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammar99&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&progress=false" alt="iammar99's Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=iammar99&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammar99&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
   </div>
 
-  <!-- Streak -->
   <br />
+  
   <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammar99&theme=vue-dark&hide_border=true" alt="iammar99's Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammar99&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
   </div>
 
 </div>
 
-
-
-
-
-## Leetcode Stats 📊
+## 🧩 LeetCode Profile
 
 <div align="center">
 
  ![Leetcode Stats](https://leetcard.jacoblin.cool/iammar911?ext=heatmap)
   
+</div>
+
+---
+
+<div align="center">
+  <i>⭐ Feel free to explore my repositories and reach out for collaborations!</i>
 </div>
