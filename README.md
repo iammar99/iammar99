@@ -15,7 +15,7 @@
 
 - **🥈 5th Position** - Gen AI Hackathon (63 competing teams) by [PAK ANGELS](https://www.pakangels.com/)
 
-- **💡 400+ Problems Solved** on [LeetCode](https://leetcode.com/iammar911/) | [Solution Sheet](https://docs.google.com/spreadsheets/d/1iWDz9k0ivRrmtcEKVjJh1yhiuVyFClgp/edit?gid=57581707#gid=57581707)
+- **💡 450+ Problems Solved** on [LeetCode](https://leetcode.com/iammar911/) | [Solution Sheet](https://docs.google.com/spreadsheets/d/1iWDz9k0ivRrmtcEKVjJh1yhiuVyFClgp/edit?gid=57581707#gid=57581707)
 
 - **🌍 6x International Hackathon Participant** [@lablab.ai](https://lablab.ai/u/@iammar) - Collaborated with global teams on AI-powered solutions
 
