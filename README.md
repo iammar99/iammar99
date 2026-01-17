@@ -4,7 +4,7 @@
 <p>
         Hi there! 👋 I'm <b>Ammar</b>, a Full-Stack Engineer specializing in the MERN stack and Next.js with a passion for solving complex technical challenges. Currently pursuing my BSIT at the University of Agriculture, Faisalabad (UAF), I combine strong algorithmic thinking with modern web development frameworks to build scalable, production-ready applications.
         <br><br>
-        With <b>400+ solved DSA problems</b>, <b>Next.js certification</b>, multiple <b>hackathon wins</b>, and hands-on experience leading development teams, I thrive in fast-paced environments where innovation meets execution. I specialize in building high-performance web applications using React, Next.js, TypeScript, and Node.js. I'm actively seeking opportunities to contribute to impactful projects at forward-thinking tech companies.
+        With <b>450+ solved DSA problems</b>, <b>Next.js certification</b>, multiple <b>hackathon wins</b>, and hands-on experience leading development teams, I thrive in fast-paced environments where innovation meets execution. I specialize in building high-performance web applications using React, Next.js, TypeScript, and Node.js. I'm actively seeking opportunities to contribute to impactful projects at forward-thinking tech companies.
 </p>
 
 <img align="right" src="./Assets/ammar.gif" width="350">
