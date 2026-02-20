@@ -1,5 +1,5 @@
 ## <p align="left">
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Engineer+%F0%9F%92%BB;400%2B+DSA+Problems+Solved+%F0%9F%8F%86;MERN+%7C+Next.js+%7C+TypeScript+%F0%9F%9A%80;Hackathon+Winner+%F0%9F%A5%87;Building+Scalable+Solutions&font=Fira+Code&center=false&width=440&height=45&color=#162238&vCenter=true&size=24&pause=100)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Engineer+%F0%9F%92%BB;450%2B+DSA+Problems+Solved+%F0%9F%8F%86;MERN+%7C+Next.js+%7C+TypeScript+%F0%9F%9A%80;Hackathon+Winner+%F0%9F%A5%87;Building+Scalable+Solutions&font=Fira+Code&center=false&width=440&height=45&color=#162238&vCenter=true&size=24&pause=100)](https://git.io/typing-svg)
 
 <p>
         Hi there! 👋 I'm <b>Ammar</b>, a Full-Stack Engineer specializing in the MERN stack and Next.js with a passion for solving complex technical challenges. Currently pursuing my BSIT at the University of Agriculture, Faisalabad (UAF), I combine strong algorithmic thinking with modern web development frameworks to build scalable, production-ready applications.
